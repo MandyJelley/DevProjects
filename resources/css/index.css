@@ -1,0 +1,31 @@
+
+#zebra {
+    height: 300px;
+    width: auto;
+    
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Merriweather', serif;
+
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
